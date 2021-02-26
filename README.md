@@ -14,3 +14,7 @@ To run this lab, you will need to setup your environment by downloading the soft
 •	Windows 10 VM https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 •	Kali Linux 64-bit VirtualBox VM https://www.kali.org/downloads/
+
+Upon completion, follow the steps outlined in _(In Progress) ICS_SCADA Lab Description.pdf.
+
+Comments, questions, and recommendations are always appreciated!
